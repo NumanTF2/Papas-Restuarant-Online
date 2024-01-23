@@ -1,2 +1,2 @@
-# Papas-Restuarant-Online
-Papa's Restuarant Games
+# Papa's Restuarant Games
+I made a website for those wishing to play the Papa's Restuarant Games online
